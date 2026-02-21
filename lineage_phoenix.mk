@@ -32,7 +32,7 @@ AVIUM_MAINTAINER ?= KevinZ
 # Soc model name
 AVIUM_SETTINGS_SOC_MODEL_NAME ?= Snapdragon 730G
 # Device code name
-AVIUM_SETTINGS_DEVICE_CODENAME ?= phoenix
+AVIUM_SETTINGS_DEVICE_CODENAME ?= Redmi K30
 
 # GMS
 # WITH_GMS is a boolean flag to indicate 
